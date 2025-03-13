@@ -1,9 +1,6 @@
 ### Занятие 12.
 Тема "Маршрутизация на основе политик (PBR)"
 
-* 
-* 
-
 PBR локальный для конкретного роутера.
 
 В [этом разделе cisco](https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/6209-5.html) 
